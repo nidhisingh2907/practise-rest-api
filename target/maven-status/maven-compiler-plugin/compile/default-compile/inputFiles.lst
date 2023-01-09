@@ -1,9 +1,8 @@
-/Users/nidhi/Downloads/practise1/src/main/java/com/demo/customer/ErrorHandler/CustomizedError.java
-/Users/nidhi/Downloads/practise1/src/main/java/com/demo/customer/Repository/CustomerRepository.java
-/Users/nidhi/Downloads/practise1/src/main/java/com/demo/customer/Model/Customer.java
-/Users/nidhi/Downloads/practise1/src/main/java/com/demo/customer/Exception/ResourceNotFoundException.java
-/Users/nidhi/Downloads/practise1/src/main/java/com/demo/customer/Service/CustomerService.java
-/Users/nidhi/Downloads/practise1/src/main/java/com/demo/customer/CustomerApplication.java
-/Users/nidhi/Downloads/practise1/src/main/java/com/demo/customer/Controller/CustomersController.java
-/Users/nidhi/Downloads/practise1/src/main/java/com/demo/customer/ErrorHandler/ErrorResponse.java
-/Users/nidhi/Downloads/practise1/src/main/java/com/demo/customer/DataSourceConfig.java
+/Users/nidhi/Desktop/Docs/intuit/practise-rest-api/practise-rest-api/src/main/java/com/demo/customer/ErrorHandler/CustomizedError.java
+/Users/nidhi/Desktop/Docs/intuit/practise-rest-api/practise-rest-api/src/main/java/com/demo/customer/CustomerApplication.java
+/Users/nidhi/Desktop/Docs/intuit/practise-rest-api/practise-rest-api/src/main/java/com/demo/customer/Exception/ResourceNotFoundException.java
+/Users/nidhi/Desktop/Docs/intuit/practise-rest-api/practise-rest-api/src/main/java/com/demo/customer/Controller/CustomersController.java
+/Users/nidhi/Desktop/Docs/intuit/practise-rest-api/practise-rest-api/src/main/java/com/demo/customer/ErrorHandler/ErrorResponse.java
+/Users/nidhi/Desktop/Docs/intuit/practise-rest-api/practise-rest-api/src/main/java/com/demo/customer/Model/Customer.java
+/Users/nidhi/Desktop/Docs/intuit/practise-rest-api/practise-rest-api/src/main/java/com/demo/customer/Repository/CustomerRepository.java
+/Users/nidhi/Desktop/Docs/intuit/practise-rest-api/practise-rest-api/src/main/java/com/demo/customer/Service/CustomerService.java

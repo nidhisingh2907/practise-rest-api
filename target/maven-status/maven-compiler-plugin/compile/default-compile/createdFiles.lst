@@ -3,7 +3,6 @@ com/demo/customer/Controller/CustomersController.class
 com/demo/customer/Exception/ResourceNotFoundException.class
 com/demo/customer/CustomerApplication.class
 com/demo/customer/Model/Customer.class
-com/demo/customer/DataSourceConfig.class
 com/demo/customer/Repository/CustomerRepository.class
 com/demo/customer/ErrorHandler/CustomizedError.class
 com/demo/customer/Service/CustomerService.class

@@ -51,18 +51,7 @@ public class CustomizedError extends ResponseEntityExceptionHandler {
 		errorResponse.setDetails(details);
 		return new ResponseEntity<>(errorResponse,HttpStatus.NOT_FOUND);
 	}
-	/*
-	@Override
-	protected ResponseEntity<Object> handleMissingServletRequestParameter(
-			MissingServletRequestParameterException ex, HttpHeaders headers, HttpStatus status, WebRequest request) {
-		errorResponse.setTimeStamp(new Date());
-		errorResponse.setMessage("Incorrect Syntax");
-		List<String> details=new ArrayList<String>();
-		details.add("Bad Type for "+ex.getParameterName()+".");
-		errorResponse.setDetails(details);  
-		return handleExceptionInternal(ex, errorResponse, headers, status, request);
-	}
-	*/
+
 	@Override
     protected ResponseEntity<Object> handleMethodArgumentNotValid(final MethodArgumentNotValidException ex, final HttpHeaders headers, final HttpStatus status, final WebRequest request) {
         errorResponse.setTimeStamp(new Date());
