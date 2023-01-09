@@ -8,7 +8,7 @@ import javax.persistence.*;
 
 @Entity
 @Table(name="Customers")
-public class Customer {
+public class 	Customer {
 	
 	@Id
 	@GeneratedValue
@@ -41,7 +41,7 @@ public class Customer {
 	private String city;
 
 	//@NotNull(message="ZIP Code can not be empty.")
-	@Column(name="ZIP Code")
+	@Column(name="ZIP_Code")
 	//@Pattern(regexp="^[0-9]{6}",message="Please enter 6-Digit ZIP Code.")
 	private String zipCode;
 
