@@ -1,0 +1,18 @@
+spring:
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://db:5432/intuit_awesomeness
+    username: ${PGUSER}
+    password: ${PGPASSWORD}
+  sql:
+    init:
+      mode: always
+
+    jpa:
+      show-sql: true
+      database: postgresql
+      properties:
+        hibernate:
+          dialect: org.hibernate.dialect.PostgreSQLDialect
+          ddl-auto: none
+      #generate-ddl: true
